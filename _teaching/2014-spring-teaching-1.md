@@ -8,13 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have served as a Graduate Student Instructor (GSI) at UC Berkeley for Graduate Development Economics (Econ 270B), Graduate International Economic Development Policy (DEVP C253), Undergraduate Labor Economics (Econ 151), and Undergraduate Economic Research (Econ 191). 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+You can find a sample of my teaching evaluations here.
