@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at UC Berkeley. My research lies at the intersection of development, labor, and education economics, with a focus on access to education in low-income contexts.
+I am a PhD Candidate in Economics at UC Berkeley. I work on topics in development, labor, and education economics, with a particular interest in access to education in low-income contexts.
 
 You can contact me at sbonds [at] berkeley [dot] edu
