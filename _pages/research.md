@@ -13,7 +13,7 @@ author_profile: true
 
 * Parent-Child Preferences and Secondary School Choice: Evidence from Kenya 
 * Learning at Home During the Covid-19 Pandemic in Kenya
-* Demand for Storybooks in Kenya with Joan Hamory, Edward Miguel, and Michael Walker (fieldwork complete)
-* Promoting Child Reading in Kenya with Joan Hamory, Edward Miguel, and Michael Walker (fieldwork in progress)
+* Demand for Storybooks in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
+* Promoting Child Reading in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
 
 
