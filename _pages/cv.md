@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-[Bonds_Stephanie_CV.pdf](https://github.com/stephaniebonds/stephaniebonds.github.io/files/7026511/Bonds_Stephanie_CV.pdf)
+You can find my CV [here].(https://github.com/stephaniebonds/stephaniebonds.github.io/files/7026511/Bonds_Stephanie_CV.pdf)
