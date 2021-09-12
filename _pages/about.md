@@ -1,4 +1,3 @@
-![Bonds_photo](https://user-images.githubusercontent.com/77817586/133005829-056b1c8f-f075-409f-8a1a-fe9f86468231.jpg)
 ---
 permalink: /
 title: "About me"
