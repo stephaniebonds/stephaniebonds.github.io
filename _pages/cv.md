@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here].(/files/Bonds_Stephanie_CV.pdf)
+You can find my CV [here](/files/Bonds_Stephanie_CV.pdf)
