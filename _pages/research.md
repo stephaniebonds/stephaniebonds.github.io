@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* Parent-Child Preferences and Secondary School Choice: Evidence from Kenya 
+* Parent-Child Preferences and Secondary School Choice: Evidence from Kenya [AEA RCT Registry!](https://www.socialscienceregistry.org/trials/5517)
 * Learning at Home During the Covid-19 Pandemic in Kenya
 * Demand for Storybooks in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
 * Promoting Child Reading in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
