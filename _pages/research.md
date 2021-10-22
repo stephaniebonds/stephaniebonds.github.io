@@ -12,16 +12,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Parent-Child Preferences and Secondary School Choice: Evidence from Kenya 
-* [AEA RCT Registry](https://www.socialscienceregistry.org/trials/5517)
+* "Parent-Child Preferences and Secondary School Choice: Evidence from Kenya"
+[AEA RCT Registry](https://www.socialscienceregistry.org/trials/5517)
 
-Promoting Child Reading in Kenya: Estimating the Demand for Storybooks (with Joan Hamory, Edward Miguel, and Michael Walker)
+* Promoting Child Reading in Kenya: Estimating the Demand for Storybooks (with Joan Hamory, Edward Miguel, and Michael Walker)
 
 ## Research in Progress
+* [How well are Remote Learning Tools Reaching Students in Kenya?](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
 
-How well are Remote Learning Tools Reaching Students in Kenya?
-* [CEGA Blog post](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
-
-Effects of Promoting Parent-Child Reading in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
-
+* Effects of Promoting Parent-Child Reading in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
 
