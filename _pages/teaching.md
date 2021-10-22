@@ -12,11 +12,9 @@ author_profile: true
 {% endfor %}
 
 I served as a Graduate Student Instructor (GSI) for the following courses:
-* Graduate International Economic Development Policy (DEVPC253), Masters of Development Practice  - 2020 
-* Undergraduate Topics in Economics Research (ECON191), Department of Economics - 2017-2019
+* Development Economics (Graduate), Department of Economics: 2021
+* International Economic Development Policy (Graduate), Masters of Development Practice: 2020 
+* Labor Economics (Undergraduate), Department of Economics: 2020
+* Topics in Economics Research (Undergraduate), Department of Economics: 2017-2019
 
-
-I served as a Grader for the following courses:
-* Graduate Development Economics (ECON270B), Department of Economics - 2021
-* Undergraduate Labor Economics (ECON151), Department of Economics - 2020
 
