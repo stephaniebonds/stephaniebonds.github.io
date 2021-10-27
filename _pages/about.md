@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{site.url}}/images/bonds_photo.JPG" width="250" align="left" style="display: block; margin-right: 40px;" /> 
+<img src="{{site.url}}/images/bio-photo.JPG" width="250" align="left" style="display: block; margin-right: 40px;" /> 
 
 I am a PhD Candidate in Economics at UC Berkeley. I work on topics in development, labor, and education economics, with a particular interest in access to education in low-income contexts. 
 
