@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* "Parent-Child Preferences and Secondary School Choice: Evidence from Kenya"
+* "Information, Student-Parent Communication, and Secondary School Choice: Experimental Evidence from Kenya"
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/5517)
 
 * "Promoting Child Reading in Kenya: Estimating the Demand for Storybooks" (with Joan Hamory, Edward Miguel, and Michael Walker)
