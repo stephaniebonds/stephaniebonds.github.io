@@ -12,7 +12,7 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-Information, Student-Parent Communication, and Secondary School Choice: Experimental Evidence from Kenya **(Job Market Paper)** <br /> 
+Information, Student-Parent Communication, and Secondary School Choice: Experimental Evidence from Kenya  <br /> **(Job Market Paper)**
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/5517) 
 
 
