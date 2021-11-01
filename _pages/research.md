@@ -23,7 +23,7 @@ with Joan Hamory, Edward Miguel, and Michael Walker
 ## Selected Research in Progress
 
 ### How well are Remote Learning Tools Reaching Students in Kenya? 
-* [CEGA Blog](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
+* **Media**: [CEGA Blog](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
 
 ### Effects of Promoting Parent-Child Reading in Kenya 
 with Joan Hamory, Edward Miguel, and Michael Walker
