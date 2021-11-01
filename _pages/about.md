@@ -14,7 +14,7 @@ Welcome! I am a Ph.D. Candidate in the Department of Economics at UC Berkeley. I
 
 *I am on the job market this year and will be available for interviews around the virtual 2022 AEA/ASSA meeting.*
 
-Email: sbonds@berkeley.edu
+Email: [sbonds@berkeley.edu](sbonds@berkeley.edu)
 
 My CV is available [here](/files/Stephanie-Bonds_CV.pdf).
 
