@@ -17,7 +17,7 @@ Secondary school dropout rates remain high in low-income countries, and informat
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/5517) 
 
 
-Promoting Child Reading in Kenya: Estimating the Demand for Storybooks (with Joan Hamory, Edward Miguel, and Michael Walker)
+### Promoting Child Reading in Kenya: Estimating the Demand for Storybooks (with Joan Hamory, Edward Miguel, and Michael Walker)
 
 ## Selected Research in Progress
 How well are Remote Learning Tools Reaching Students in Kenya? 
