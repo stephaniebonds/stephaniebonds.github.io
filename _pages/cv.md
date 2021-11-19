@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-My CV is available [here](https://stephaniebonds.com/files/Stephanie-Bonds_CV.pdf).
+My CV is available [here](https://stephaniebonds.com/files/Stephanie_Bonds_CV.pdf).
