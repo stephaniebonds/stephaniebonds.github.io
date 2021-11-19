@@ -17,4 +17,6 @@ I served as a Graduate Student Instructor (GSI) for the following courses:
 * Labor Economics (Undergraduate), Department of Economics (2020)
 * Topics in Economics Research (Undergraduate), Department of Economics (2017-2019)
 
+You can find my teaching evaluations [here](https://stephaniebonds.com/files/Bonds_Teaching_Evals_full.pdf). 
+
 
