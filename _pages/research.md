@@ -26,10 +26,6 @@ with Joan Hamory, Edward Miguel, and Michael Walker
 ### How well are Remote Learning Tools Reaching Students in Kenya? 
 * **Media**: [CEGA Blog](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
 
-### Kenya Analytic Program on Forced Displacement: Refugee and Host Community Education Panel Survey
-with Theresa Beltramo, Utz Johann Pape, Edward Miguel, Antonia Delius, Florence Nimoh, and Laura Abril Rios Rivera
-
-
 ### Effects of Promoting Parent-Child Reading in Kenya 
 with Joan Hamory, Edward Miguel, and Michael Walker
 
