@@ -29,3 +29,12 @@ with Joan Hamory, Edward Miguel, and Michael Walker
 ### Effects of Promoting Parent-Child Reading in Kenya 
 with Joan Hamory, Edward Miguel, and Michael Walker
 
+### Challenges Faced by Children of Sex Workers
+with Muhammad Zia Mehmood (pilot funding received)
+
+### Demand for Vocational Training in Rwanda
+with Aimable Nsabimana (pilot funding received)
+
+### Training with Technology - Lessons from a Field Experiment with Kenyan MSMEs 
+with Muhammad Zia Mehmood (full funding received) 
+
