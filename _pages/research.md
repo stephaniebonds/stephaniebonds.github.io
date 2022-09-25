@@ -35,6 +35,3 @@ with Muhammad Zia Mehmood (pilot funding received)
 ### [Demand for Vocational Training Programs Among Rwandan Youth](https://cega.berkeley.edu/research/demand-for-vocational-training-programs-among-rwandan-youth/)
 with Aimable Nsabimana (pilot funding received)
 
-### Training with Technology - Lessons from a Field Experiment with Kenyan MSMEs 
-with Muhammad Zia Mehmood (full funding received) 
-
