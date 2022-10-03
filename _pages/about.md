@@ -20,7 +20,7 @@ Welcome! I am a Post-Doctoral Research Fellow at the Center for Global Developme
 Prior to her PhD, Stephanie obtained a B.A. in Economics (Honors) from the University of California, Berkeley, and worked as a Research Assistant in the Applied Microeconomics group at the Federal Reserve Bank of Boston.
 <br/>
 <br/>
-** Email **: [sbonds [at] cgdev.org]
+** Email **: sbonds [at] cgdev.org
 </div>
 </div>
 <style>
