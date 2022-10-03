@@ -11,16 +11,22 @@ redirect_from:
 <div class="flex">
 <img class="photo" src="{{site.url}}/images/bonds_bio_photo.jpg" /> 
 <div class="text">
-Welcome! I am a Post-Doctoral Research Fellow at the Center for Global Development. I received my PhD in Economics from the University of California, Berkeley in May 2022. My research interests are at the intersection of development and labor economics, with a particular focus on issues of educational access in low-income settings. 
+Welcome! I am a Post-Doctoral Research Fellow at the Center for Global Development. I received my PhD in Economics from the University of California, Berkeley in May 2022. 
 <br/>
 <br/>
-<i>Email</i>: [sbonds [at] cgdev.org](mailto:sbonds@cgdev.org)
+ My research interests are at the intersection of development and labor economics, with a particular focus on issues of educational access in low-income settings. 
+<br/>
+<br/>
+Prior to her PhD, Stephanie obtained a B.A. in Economics (Honors) from the University of California, Berkeley, and worked as a Research Assistant in the Applied Microeconomics group at the Federal Reserve Bank of Boston.
+<br/>
+<br/>
+** Email **: [sbonds [at] cgdev.org]
 </div>
 </div>
 <style>
   .photo {
     display: block;
-    max-width: 40%;
+    max-width: 50%;
     margin: 0 20px;
   }
 
