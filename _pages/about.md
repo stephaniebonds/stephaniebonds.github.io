@@ -18,13 +18,13 @@ Welcome! I am a Post-Doctoral Research Fellow at the Center for Global Developme
 <br/>
 <br/>
 
-** Email **: sbonds [at] cgdev.org
+<i>Email </i>: sbonds [at] cgdev.org
 </div>
 </div>
 <style>
   .photo {
     display: block;
-    max-width: 50%;
+    max-width: 40%;
     margin: 0 20px;
   }
 
