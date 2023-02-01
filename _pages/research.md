@@ -20,18 +20,18 @@ Secondary school dropout rates remain high in low-income countries, and informat
 
 ## Work in Progress
 
-### Promoting Child Reading in Kenya: Estimating the Demand for Storybooks 
+### Promoting Child Reading in Kenya
 with Joan Hamory, Edward Miguel, and Michael Walker
+
+### Challenges Faced by Children of Sex Workers
+with Muhammad Zia Mehmood and Eric Ochieng (pilot funding received)
+
+### [Demand for Vocational Training Programs Among Rwandan Youth](https://cega.berkeley.edu/research/demand-for-vocational-training-programs-among-rwandan-youth/)
+with Aimable Nsabimana (pilot funding received)
+
+## Policy
 
 ### How well are Remote Learning Tools Reaching Students in Kenya? 
 * **Media**: [CEGA Blog](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
 
-### Effects of Promoting Parent-Child Reading in Kenya 
-with Joan Hamory, Edward Miguel, and Michael Walker
-
-### Challenges Faced by Children of Sex Workers
-with Muhammad Zia Mehmood (pilot funding received)
-
-### [Demand for Vocational Training Programs Among Rwandan Youth](https://cega.berkeley.edu/research/demand-for-vocational-training-programs-among-rwandan-youth/)
-with Aimable Nsabimana (pilot funding received)
 
