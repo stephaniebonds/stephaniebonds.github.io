@@ -20,13 +20,17 @@ Secondary school dropout rates remain high in low-income countries, and informat
 
 ## Work in Progress
 
-### Promoting Child Reading in Kenya (with Joan Hamory, Edward Miguel, and Michael Walker)
+### Promoting Child Reading in Kenya 
+with Joan Hamory, Edward Miguel, and Michael Walker
 
-### Challenges Faced by Children of Sex Workers (with Muhammad Zia Mehmood and Eric Ochieng) *Fieldwork ongoing*
+### Challenges Faced by Children of Sex Workers 
+with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
 
-### Differentiated Learning Experimentation (with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg) *Fieldwork ongoing*
+### Differentiated Learning Experimentation 
+with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg *Fieldwork ongoing*
 
-### Demand for Vocational Training Programs Among Rwandan Youth (with Aimable Nsabimana)
+### Demand for Vocational Training Programs Among Rwandan Youth 
+with Aimable Nsabimana
 
 ## Policy
 
