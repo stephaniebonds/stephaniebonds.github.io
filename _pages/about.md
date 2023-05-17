@@ -38,7 +38,7 @@ My research interests are at the intersection of development and labor economics
       flex-direction: column;
     }
     .photo {
-    max-width: 100%;
+    max-width: 75%;
     margin-bottom: 20px;
     }
 
