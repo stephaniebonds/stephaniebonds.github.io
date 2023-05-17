@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="{{site.url}}/images/bonds_bio_photo.jpg" /> 
 
 Welcome! I am a Post-Doctoral Research Fellow at the Center for Global Development. I received my PhD in Economics from the University of California, Berkeley in May 2022. 
 
