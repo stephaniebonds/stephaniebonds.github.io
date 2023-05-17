@@ -23,11 +23,11 @@ Secondary school dropout rates are high in low-income countries, and information
 ### Promoting Child Reading in Kenya 
 with Joan Hamory, Edward Miguel, and Michael Walker
 
-### Challenges Faced by Children of Sex Workers 
-with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
-
 ### Differentiated Learning Experimentation 
 with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg *Fieldwork ongoing*
+
+### Challenges Faced by Children of Sex Workers 
+with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
 
 ### Demand for Vocational Training Programs Among Rwandan Youth 
 with Aimable Nsabimana
