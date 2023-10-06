@@ -25,7 +25,7 @@ with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 
 ### Differentiated Learning Experimentation 
 with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg 
-* [AEA RCT Registry] (https://www.socialscienceregistry.org/trials/11414)
+* [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
 
 ### Challenges Faced by Vulnerable Children in Kenya
 with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
