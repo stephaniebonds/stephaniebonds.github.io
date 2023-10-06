@@ -20,13 +20,14 @@ Secondary school dropout rates are high in low-income countries, and information
 
 ## Work in Progress
 
-### Promoting Child Reading in Kenya 
-with Joan Hamory, Edward Miguel, and Michael Walker
+### Promoting Parent-Child Reading: Experimental Evidence from Kenya
+with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 
 ### Differentiated Learning Experimentation 
-with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg *Fieldwork ongoing*
+with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg 
+* [AEA RCT Registry] (https://www.socialscienceregistry.org/trials/11414)
 
-### Challenges Faced by Children of Sex Workers 
+### Challenges Faced by Vulnerable Children in Kenya
 with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
 
 ### Demand for Vocational Training Programs Among Rwandan Youth 
