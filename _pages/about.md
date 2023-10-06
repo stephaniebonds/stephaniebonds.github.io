@@ -10,10 +10,7 @@ redirect_from:
 <div class="flex">
 <img class="photo" src="{{site.url}}/images/Bonds_Photo2.jpg" /> 
 <div class="text">
-Welcome! I am an Associate Economist at RAND Corporation. I received my PhD in Economics from the University of California, Berkeley in May 2022 and completed a Post-Doctoral Research Fellow at the Center for Global Development. 
-<br/>
-<br/>
-My research is in development economics, labor economics, and the economics of education, with a focus on issues of educational access in low-income settings and for vulnerable populations. Prior to my PhD, I worked as a Research Assistant in the Applied Microeconomics group at the Federal Reserve Bank of Boston and completed a BA in Economics from the University of California, Berkeley.
+Welcome! I am an Associate Economist at RAND Corporation. My research focuses on access to education and human capital investment in low-income settings. To study this, I've collaborated with local stakeholders to design and implement field experiments in Kenya, Rwanda, Ghana, and Nigeria. I have a PhD and BA in Economics from the University of California, Berkeley, and  completed a Post-Doctoral Research Fellowship at the Center for Global Development. 
 <br/>
 <br/>
 <i>Email</i>: sbonds [at] rand.org
