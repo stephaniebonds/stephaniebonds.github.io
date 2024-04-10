@@ -10,7 +10,7 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-## Job Market Paper
+## Working Papers
 
 ### [Information, Student-Parent Communication, and Secondary School Choice: Experimental Evidence from Kenya](http://stephaniebonds.com/files/Stephanie_Bonds_JMP.pdf)
 
@@ -27,7 +27,11 @@ with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg 
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
 
-### Challenges Faced by Vulnerable Children in Kenya
+### The Impact of Pre-Emptive Home Delivery of ORS + Zinc on Treatment for Child Diarrhea: A Randomized Controlled Trial in Bauchi, Nigeria
+with Zachary Wagner, Ishita Ghai, and Nneka Osadolor
+* [AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)
+
+### Challenges Faced by Vulnerable Children in Kenya - Pilot
 with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
 
 ### Demand for Vocational Training Programs Among Rwandan Youth 
