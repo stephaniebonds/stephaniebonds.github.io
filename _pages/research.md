@@ -31,7 +31,7 @@ with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas
 with Zachary Wagner, Ishita Ghai, and Nneka Osadolor
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)
 
-### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)n 
+### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)
 with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  
 
 ### Challenges Faced by Vulnerable Children in Kenya - Pilot
