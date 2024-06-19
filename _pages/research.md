@@ -24,15 +24,18 @@ Secondary school dropout rates are high in low-income countries, and information
 with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 
 ### Differentiated Learning Experimentation 
-with Adrienne M. Lucas, Anne Fitzpatrick, and Sabrin Beg 
+with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
 
 ### The Impact of Pre-Emptive Home Delivery of ORS + Zinc on Treatment for Child Diarrhea: A Randomized Controlled Trial in Bauchi, Nigeria
 with Zachary Wagner, Ishita Ghai, and Nneka Osadolor
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)
 
+### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)n 
+with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  
+
 ### Challenges Faced by Vulnerable Children in Kenya - Pilot
-with Muhammad Zia Mehmood and Eric Ochieng *Fieldwork ongoing*
+with Muhammad Zia Mehmood and Eric Ochieng 
 
 ### Demand for Vocational Training Programs Among Rwandan Youth 
 with Aimable Nsabimana
