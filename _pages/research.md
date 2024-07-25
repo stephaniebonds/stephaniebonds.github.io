@@ -19,7 +19,7 @@ Secondary school dropout rates are high in low-income countries, and information
 
 ## Work in Progress
 
-### Promoting Parent-Child Reading: Experimental Evidence from Kenya
+### Promoting Parent-Child Reading: Evidence from Kenya
 with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker<br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/3995/history/61402)]
 
