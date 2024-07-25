@@ -23,8 +23,6 @@ Secondary school dropout rates are high in low-income countries, and information
 with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker<br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/3995/history/61402)]
 
-
-
 ### Differentiated Learning Experimentation 
 with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)]
@@ -37,7 +35,7 @@ with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  <br />
 with Zachary Wagner, Ishita Ghai, and Nneka Osadolor <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)]
 
-### Challenges Faced by Vulnerable Children in Kenya - Pilot
+### Challenges Faced by Vulnerable Children in Kenya - Pilot Study
 with Muhammad Zia Mehmood and Eric Ochieng 
 
 ### Demand for Vocational Training Programs Among Rwandan Youth 
@@ -45,7 +43,6 @@ with Aimable Nsabimana
 
 ## Policy
 
-### How well are Remote Learning Tools Reaching Students in Kenya? 
-* **Media**: [CEGA Blog](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
+### [How well are Remote Learning Tools Reaching Students in Kenya?](https://medium.com/center-for-effective-global-action/how-well-are-remote-learning-tools-reaching-students-in-kenya-d8c8461c7f88)
 
 
