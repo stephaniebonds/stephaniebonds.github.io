@@ -20,18 +20,21 @@ Secondary school dropout rates are high in low-income countries, and information
 ## Work in Progress
 
 ### Promoting Parent-Child Reading: Experimental Evidence from Kenya
-with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
+with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker<br />
+[[AEA RCT Registry](https://www.socialscienceregistry.org/trials/3995/history/61402)]
+
+
 
 ### Differentiated Learning Experimentation 
-with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas 
+with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)]
 
-### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)
-with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  
+### GALOP Information Nudge to improve the Implementation of Differentiated Learning
+with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13844)]
 
 ### The Impact of Pre-Emptive Home Delivery of ORS + Zinc on Treatment for Child Diarrhea: A Randomized Controlled Trial in Bauchi, Nigeria
-with Zachary Wagner, Ishita Ghai, and Nneka Osadolor
+with Zachary Wagner, Ishita Ghai, and Nneka Osadolor <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)]
 
 ### Challenges Faced by Vulnerable Children in Kenya - Pilot
