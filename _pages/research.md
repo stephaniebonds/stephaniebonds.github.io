@@ -23,9 +23,8 @@ Secondary school dropout rates are high in low-income countries, and information
 ### Promoting Parent-Child Reading: Experimental Evidence from Kenya
 with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 
-### Differentiated Learning Experimentation 
-with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas <br />
-[AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
+### Differentiated Learning Experimentation [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
+with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas 
 
 ### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)
 with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  
