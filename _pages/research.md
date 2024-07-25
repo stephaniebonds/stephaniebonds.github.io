@@ -24,7 +24,7 @@ Secondary school dropout rates are high in low-income countries, and information
 with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 
 ### Differentiated Learning Experimentation 
-with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas
+with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas <br />
 [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
 
 ### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)
