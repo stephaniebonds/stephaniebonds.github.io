@@ -25,14 +25,15 @@ with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker
 
 ### Differentiated Learning Experimentation 
 with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas
-* [AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
+[AEA RCT Registry](https://www.socialscienceregistry.org/trials/11414)
+
+### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)
+with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  
+* [AEA RCT Registry](https://www.socialscienceregistry.org/trials/13844)
 
 ### The Impact of Pre-Emptive Home Delivery of ORS + Zinc on Treatment for Child Diarrhea: A Randomized Controlled Trial in Bauchi, Nigeria
 with Zachary Wagner, Ishita Ghai, and Nneka Osadolor
 * [AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)
-
-### GALOP Information Nudge to improve the Implementation of Differentiated Learning (GINII)
-with Sabrin Beg, Anne Fitzpatrick, Sarah Kabay, and Adrienne M. Lucas  
 
 ### Challenges Faced by Vulnerable Children in Kenya - Pilot
 with Muhammad Zia Mehmood and Eric Ochieng 
