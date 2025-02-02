@@ -11,7 +11,10 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-I served as a Graduate Student Instructor (GSI) for the following courses:
+Pardee RAND Graduate School:
+* Development Economics (PhD), Winter 2025
+
+I served as a Graduate Student Instructor (GSI) for the following courses at UC Berkeley:
 * Development Economics (Graduate), Department of Economics (2021)
 * International Economic Development Policy (Graduate), Masters of Development Practice (2020)
 * Labor Economics (Undergraduate), Department of Economics (2020)
