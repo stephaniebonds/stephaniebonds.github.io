@@ -11,7 +11,8 @@ author_profile: false
   {% include archive-single.html %}
 {% endfor %}
 
-Pardee RAND Graduate School:
+RAND School of Public Policy:
+* Advanced Econometrics (PhD), Spring 2025
 * Development Economics (PhD), Winter 2025
 
 I served as a Graduate Student Instructor (GSI) for the following courses at UC Berkeley:
