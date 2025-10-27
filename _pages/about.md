@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="{{site.url}}/images/Bonds_Photo2.jpg" width="300" align="left" style="display: block; margin-right: 40px;" /> 
 
-Welcome! I am an Economist at [RAND(https://www.rand.org/about/people/b/bonds_stephanie.html)] and a Professor of Policy Analysis at the [RAND School of Public Policy(https://www.rand.edu)]. I received my PhD in Economics from the University of California, Berkeley in May 2022, and  completed a Post-Doctoral Research Fellowship at the Center for Global Development in 2022-2023. I am an affiliated researcher at [Innovations for Poverty Action (IPA)(https://poverty-action.org/people/stephanie-bonds)]. 
+Welcome! I am an Economist at [RAND](https://www.rand.org/about/people/b/bonds_stephanie.html) and a Professor of Policy Analysis at the [RAND School of Public Policy](https://www.rand.edu). I received my PhD in Economics from the University of California, Berkeley in May 2022, and  completed a Post-Doctoral Research Fellowship at the Center for Global Development in 2022-2023. I am an affiliated researcher at [Innovations for Poverty Action (IPA)](https://poverty-action.org/people/stephanie-bonds). 
 
 My research focuses on education, health, and human capital investment. 
 
