@@ -32,7 +32,7 @@ with Zachary Wagner, Ishita Ghai, and Nneka Osadolor <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)][[IPA Project Summary](https://poverty-action.org/impact-home-based-distribution-preventive-diarrhea-treatment-kits-nigeria)]
 
 ### Challenges Faced by Vulnerable Children in Kenya - Pilot Study
-with Muhammad Zia Mehmood and Eric Ochieng 
+with Muhammad Zia Mehmood and Eric Ochieng <br />
 [[IPA Project Summary](https://poverty-action.org/assessing-challenges-faced-children-individuals-engaged-commercial-sex-kenya)]
 
 ## Policy
