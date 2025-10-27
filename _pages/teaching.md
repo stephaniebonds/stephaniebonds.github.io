@@ -12,7 +12,7 @@ author_profile: false
 {% endfor %}
 
 RAND School of Public Policy:
-* Advanced Econometrics (PhD), Spring 2025
+* Advanced Econometrics (PhD), Spring 2025, Winter 2026
 * Development Economics (PhD), Winter 2025
 
 In graduate school, I also served as a Graduate Student Instructor (GSI) for the following courses at UC Berkeley:
