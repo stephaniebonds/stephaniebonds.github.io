@@ -25,7 +25,7 @@ with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker<br />
 
 ### Differentiated Learning Experimentation 
 with Sabrin Beg, Anne Fitzpatrick, and Adrienne M. Lucas <br />
-[[AEA RCT Registry 1](https://www.socialscienceregistry.org/trials/11414)]; [[AEA RCT Registry 2](https://www.socialscienceregistry.org/trials/13844)][[IPA Project Summary 1](https://poverty-action.org/evaluating-digital-vs-person-refresher-training-effective-differentiated-learning-ghana)]; [IPA Project Summary 2](https://poverty-action.org/evaluating-information-nudges-increase-implementation-differentiated-learning-ghana-classrooms)]
+[[AEA RCT Registry 1](https://www.socialscienceregistry.org/trials/11414)]; [[AEA RCT Registry 2](https://www.socialscienceregistry.org/trials/13844)][[IPA Project Summary 1](https://poverty-action.org/evaluating-digital-vs-person-refresher-training-effective-differentiated-learning-ghana)]; [[IPA Project Summary 2](https://poverty-action.org/evaluating-information-nudges-increase-implementation-differentiated-learning-ghana-classrooms)]
 
 ### The Impact of Pre-Emptive Home Delivery of ORS + Zinc on Treatment for Child Diarrhea: A Randomized Controlled Trial in Bauchi, Nigeria
 with Zachary Wagner, Ishita Ghai, and Nneka Osadolor <br />
