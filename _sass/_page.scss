@@ -400,8 +400,7 @@
   text-transform: uppercase;
 }
 
-/* Research page layout */
-.research-page {
+.research-page .page {
   @include breakpoint($large) {
     @include span(11 of 12);
     @include prefix(0 of 12);
