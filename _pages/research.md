@@ -1,9 +1,8 @@
 ---
 permalink: /research/
 author_profile: false
-classes: wide
+classes: research-page
 ---
-
 {% include base_path %}
 
 {% for post in site.research reversed %}
