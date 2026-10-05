@@ -18,18 +18,18 @@ Secondary school dropout rates are high in low-income countries, and information
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/5517)][[CEGA Blog](https://medium.com/center-for-effective-global-action/information-student-parent-communication-and-secondary-school-choice-729f406097ae)]
 
 ### Scaling Down Costs to Scale Up Effective Programs: Evidence from Two Randomized Interventions
-with Sabrin Beg, Anne Fitzpatrick, and Adrienne Lucas -- *Submitted* <br />
+with Sabrin Beg, Anne Fitzpatrick, and Adrienne Lucas - *Submitted* <br />
 [[AEA RCT Registry 1](https://www.socialscienceregistry.org/trials/11414)][[AEA RCT Registry 2](https://www.socialscienceregistry.org/trials/13844)][[IPA Project Summary 1](https://poverty-action.org/evaluating-digital-vs-person-refresher-training-effective-differentiated-learning-ghana)][[IPA Project Summary 2](https://poverty-action.org/evaluating-information-nudges-increase-implementation-differentiated-learning-ghana-classrooms)]
 
 ### Remote Learning Strategies Are Used When Schools Are Closed: Evidence from 12 Low-Income Countries
-with Sabrin Beg, Anne Fitzpatrick, Adrienne Lucas, and Zoey Y. Zhao -- *Submitted* <br />
+with Sabrin Beg, Anne Fitzpatrick, Adrienne Lucas, and Zoey Y. Zhao - *Submitted* <br />
 
 ### The Impact of Pre-Emptive Home Delivery of ORS+Zinc on Treatment for Child Diarrhea: A Randomized Controlled Trial in Bauchi, Nigeria
 with Zachary Wagner, Ishita Ghai, Nneka Osadolor, Caroline Boeke, Chizoba Fashanu, Hawa Obaje, David Levine, and Felix Lam <br />
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/13278)][[IPA Project Summary](https://poverty-action.org/impact-home-based-distribution-preventive-diarrhea-treatment-kits-nigeria)]
 
 ### Integrating Pre-emptive Home Delivery of Oral Rehydration Salts and Zinc with Seasonal Malaria Chemoprevention Platforms: A Difference-in-Differences Evaluation in Chad
-with Zachary Wagner, Jun Young Jeong, Sahar Khayeche, Freddy Nadjingar Doumde, Anna Fallon, Chukwudi A. Nnaji, Mahamat Saleh Issakha Diar, Kolio Matchanga, Khadidja Amadaye Abgrene, and David I. Levine -- *Submitted* <br />
+with Zachary Wagner, Jun Young Jeong, Sahar Khayeche, Freddy Nadjingar Doumde, Anna Fallon, Chukwudi A. Nnaji, Mahamat Saleh Issakha Diar, Kolio Matchanga, Khadidja Amadaye Abgrene, and David I. Levine - *Submitted* <br />
 
 ### Promoting Parent-Child Reading: Evidence from Kenya
 with Joan Hamory, Edward Miguel, Eric Ochieng, and Michael Walker <br />
