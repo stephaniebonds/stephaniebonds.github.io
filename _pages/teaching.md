@@ -12,8 +12,9 @@ author_profile: false
 {% endfor %}
 
 RAND School of Public Policy:
+* Behavioral Economics, Spring 2026
 * Advanced Econometrics (PhD), Spring 2025, Winter 2026
-* Development Economics (PhD), Winter 2025
+* Development Economics (PhD), Winter 2025, Spring 2027
 
 In graduate school, I also served as a Graduate Student Instructor (GSI) for the following courses at UC Berkeley:
 * Development Economics (Graduate), Department of Economics (2021)
