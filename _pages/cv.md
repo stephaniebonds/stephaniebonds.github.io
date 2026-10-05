@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-[cv](https://stephaniebonds.com/files/Bonds_CV.pdf).
+[cv](https://stephaniebonds.com/files/Bonds_CV_Fall2026.pdf).
